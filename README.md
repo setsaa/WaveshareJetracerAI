@@ -1,1 +1,1 @@
-# JetRacer Command
+# WaveShare Jetracer AI
